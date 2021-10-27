@@ -1,6 +1,3 @@
 # django_project_g2
 
-groupe 2:
-Fouassier Théo
-AYOUDJ Anis
-Morvan louis
+Groupe 2 :<br/>Fouassier Théo<br/>AYOUDJ Anis<br/><br/>Morvan louis
